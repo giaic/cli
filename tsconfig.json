@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "importHelpers": true,
+    "module": "commonjs",
+    "outDir": "lib",
+    "rootDir": "src",
+    "strict": true,
+    "lib": ["es2018"],
+    "target": "es2018"
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
